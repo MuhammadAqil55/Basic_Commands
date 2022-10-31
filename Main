@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<a href="https://www.w3schools.com">
+<img src="pic1.jpg">
+</a>
+<h6 style="color:blue; font-family:verdana;font-size:200%;">Natural</h6>
+<br>
+<br>
+<a href="https://www.google.com">
+<img src="image2.jpg">
+</a>
+<h6 style="color:red; font-family:courier;font-size:200%;">Sky</h6>
+<br>
+<br>
+<a href="https://www.facebook.com">
+<img src="images3.jpg">
+</a>
+<h6 style="color:blue;font-family:verdana;font-size:300%;">People</h6>
+<br>
+<br>
+<a href="https://www.youtube.com">
+<img src="images4.jpg">
+</a>
+<h6 style="color:red; font-family:courier;">TajMughal</h6>
+<br>
+<br>
+<a href="https://www.google.com">
+<img src="images5.jpg">
+</a>
+<h6 style="color:blue;font-family:courier;">Animal</h6>
+</body>
+</html>
